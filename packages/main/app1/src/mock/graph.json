@@ -1,0 +1,38 @@
+{
+  "elements": [
+    {
+      "data": {
+        "id": "one",
+        "label": "Comp1",
+        "type": "comp"
+      }
+    },
+    {
+      "data": {
+        "id": "two",
+        "label": "Node 2"
+      }
+    },
+    {
+      "data": {
+        "id": "three",
+        "label": "Node 3"
+      }
+    },
+    {
+      "data": {
+        "id": "four",
+        "label": "Node 3"
+      },
+      "position": { "x": 20, "y": 200
+      }
+    },
+    {
+        "data": {
+          "source": "one",
+          "target": "two",
+          "label": "Edge from Node1 to Node2"
+      }
+    }
+  ]
+}

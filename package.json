@@ -1,0 +1,8 @@
+{
+  "name": "cl_yarn_berry",
+  "packageManager": "yarn@1.22.17",
+  "private": true,
+  "workspaces": [
+    "packages/**"
+  ]
+}
